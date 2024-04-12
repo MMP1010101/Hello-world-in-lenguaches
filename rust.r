@@ -1,0 +1,2 @@
+cat("Hola, mundo\n")
+
